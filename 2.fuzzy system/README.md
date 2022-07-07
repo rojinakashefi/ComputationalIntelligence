@@ -19,6 +19,8 @@ python3 app.py
 
 Inputs:
 
-
+![Inputs](inputs.png)
 
 Outputs:
+
+![Outputs](outputs.png)
